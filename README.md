@@ -1,2 +1,6 @@
-# OmokQLearning
-신경망 Q-Learning으로 구현한 오목 게임
+# 실행 방법
+python OmokTrain.py
+python OmokPlay.py
+
+python OmokTrainDeep.py
+python OmokPlay.Deep.py
