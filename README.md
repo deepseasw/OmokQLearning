@@ -1,10 +1,3 @@
-# 실행 방법
-python OmokTrain.py
+http://aidev.co.kr/deeplearning/1056
 
-python OmokPlay.py
-
-
-python OmokTrainDeep.py
-
-python OmokPlay.Deep.py
-
+  
